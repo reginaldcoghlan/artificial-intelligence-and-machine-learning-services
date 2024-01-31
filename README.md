@@ -21,8 +21,4 @@ Getting Started
 ---------------
 To explore our services further, visit https://inoxoft.com/service/artificial-intelligence-and-machine-learning-services/ on our website.
 
-Contact Us
-----------
-If you have any questions or inquiries regarding our AI and ML services, feel free to reach out to us at contact@inoxoft.com.
-
-Thank you for choosing Inoxoft for your Artificial Intelligence and Machine Learning needs!
+]
